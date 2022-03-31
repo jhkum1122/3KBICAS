@@ -12,7 +12,7 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<org.springframework-version> 4.2.1.RELEASE </org.springframework-version>
+		<org.springframework-version>5.3.18</org.springframework-version>
 	</properties>
 
 	<!-- 라이브러리를 추가 -->
